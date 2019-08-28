@@ -31,4 +31,6 @@ El constara de dos modalidades de juego por equipos y todos contra todos, la mod
 
 ## Historias de usuario
 
+https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
+
 
