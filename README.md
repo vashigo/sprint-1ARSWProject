@@ -5,8 +5,8 @@
 ## Integrantes 🔧
 
 
-* Andres Vazquez 
-* Andres Rodriguez del toro 
+* Andrés Vazquez 
+* Andrés Rodríguez del toro 
 * Nicolas Patiño 
 
 ## Resumen
