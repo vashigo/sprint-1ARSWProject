@@ -20,7 +20,7 @@ _B0Tactics.io es una adaptacion de los juegos de extension .io la mecanica de es
 #
 El proyecto consiste en que cada jugador controla un Cuadrado que corresponde a su "personaje", este cuadrado se desplazara por el mapa consumiendo puntos que lo ayudaran a crecer de tamaño y competir contra los otros jugadores, la meta es aumentar el tamaño del cuadrado, eliminando a los demas jugadores, esto se hara chocando a los demas cuadrados y el que tenga mayor tamaño eliminara al otro, tambien en el mapa se dispondra de poderes que apareceran de forma aleatoria permitiendole a los jugadores que tengan un menor tamaño competir contra los demas.
 #
-El constara de dos modalidades de juego por equipos y todos contra todos, la modalidad por consiste en enfrentar de 2 a 4 equipos, cada equipo tendra un color para diferenciarlo de los demas y se enfrentaran contra los demas equipos.
+El juego constara de dos modalidades de juego por equipos y todos contra todos. la modalidad por consiste en enfrentar de 2 a 4 equipos, cada equipo tendra un color para diferenciarlo de los demas y se enfrentaran contra los otros equipos.
 * **poderes :**
 
   * **invencibilidad :**_le permitira a un usuario ser indestructible por un periodo corto de tiempo (ningun jugador mas grade que este                            podra destruirlo y no le afectaran los demas poderes.
@@ -30,7 +30,7 @@ El constara de dos modalidades de juego por equipos y todos contra todos, la mod
 
 
 ## Historias de usuario
-
+las historias de usuario estaran disponibles en el siguiente link
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 
