@@ -15,6 +15,24 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 ![](img/juego.png)
 ![](img/tabla.png)
 
+## ¿ Qué necesidad cubre nuestro producto ?
+cubre una necesidad de Entretenimiento en la industria de videojuegos que cada dia es mas demandada.
+
+ 
+## Nicho de Mercado
++ **a usuarios niños y adolescentes que son apasionados por los videojuegos o simplemente buscan un momento de distracción donde puedan desarrollar inconscientemente habilidades como:**
+
+    + Competitividad
+    + Trabajo en Equipo ( modo equipos )
+    
++ **Tipos de Jugadore que podremos tener**
+
+    + Achievers (Conquistadores) su objetivo es resolver retos y recibir recompensas por ello.
+    + Explorers (Exploradores) Quieren conocer y descubrir todo lo que el juego tenga para ofrecer.
+    + Socializers (Socializadores) La experiencia, la comunidad es lo que realmente les motiva a estar en el juego.
+    + Killers (Asesinos) Los que buscan competir y sobresalir, los que disfrutan venciendo, si no aplastando a los demás.
+    
+
 ## Descripción
 _B0Tactics.io es una adaptación de los juegos de extensión .io la mecánica de estos juegos consiste en un grupo de jugadores que compiten para llegar al primer lugar obteniendo la mayor cantidad de puntos, estos juegos no tienen una victoria definida clara.
 #
