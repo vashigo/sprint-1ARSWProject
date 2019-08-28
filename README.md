@@ -6,5 +6,5 @@
 
 
 * Andres Vazquez 
-* Andres Rodriguez del toro *
+* Andres Rodriguez del toro 
 * Nicolas Patiño 
