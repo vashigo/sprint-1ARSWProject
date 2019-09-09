@@ -43,21 +43,29 @@ cubre una necesidad de Entretenimiento en la industria de videojuegos que cada d
 ## Descripción
 _B0Tactics.io es una adaptación de los juegos de extensión .io la mecánica de estos juegos consiste en un grupo de jugadores que compiten para llegar al primer lugar obteniendo la mayor cantidad de puntos, estos juegos no tienen una victoria definida clara.
 #
-El proyecto consiste en que cada jugador controla un Cuadrado que corresponde a su "personaje", este cuadrado se desplazara por el mapa consumiendo puntos que lo ayudaran a crecer de tamaño y competir contra los otros jugadores, la meta es aumentar el tamaño del cuadrado, eliminando a los demás jugadores, esto se hará chocando a los demás cuadrados y el que tenga mayor tamaño eliminara al otro, también en el mapa se dispondrá de poderes que aparecerán de forma aleatoria permitiéndole a los jugadores que tengan un menor tamaño competir contra los demás.
+El proyecto consiste en que cada jugador controla un Personaje , este personaje se desplazara por el mapa consumiendo puntos que lo ayudaran a crecer de tamaño y competir contra los otros jugadores, la meta es aumentar el tamaño del personaje, y mantenerse en la cima de putuaciones.
 #
-El juego constara de dos modalidades de juego por equipos y todos contra todos. la modalidad por consiste en enfrentar de 2 a 4 equipos, cada equipo tendrá un color para diferenciarlo de los demás y se enfrentaran contra los otros equipos.
+Al iniciar el juego el usuario aparece con un personaje de un tamaño predeterminado pequeño y sin puntos. En el mapa apareceran pequeños puntos que seran consumibles por el jugador y le permitiran aumentar sus puntos y su tamaño, adicional a esto se pueden conseguir puntos consumiendo a otro jugador, esta sera la manera mas efectiva de aumentar el tamaño  pero tambien la mas arriesgada ya que al haber un enfrentamiento el personaje de menor tamaño resultara perdedor.El jugador tambien dispondra de la posibilidad de obtencion de pequeñas ayudas temporales que apareceran de forma aleatoria en el mapa.
 * **poderes :**
 
-  * **invencibilidad :**_le permitirá a un usuario ser indestructible por un periodo corto de tiempo (ningún jugador más grade que este                            podrá destruirlo y no le afectaran los demás poderes.
+  * **invencibilidad :**_le permitirá a un usuario ser indestructible por un periodo corto de tiempo (ningún jugador más grade que este                            podrá consumirlo y no le afectaran los demás poderes.
   * **Crecimiento Excesivo :** el jugador incrementara el doble de su tamaño por un periodo corto de tiempo.
-  * **Cohete  :** el jugador adquiere la habilidad de lanzar proyectiles que al impactar contra otro jugador lo dividirá haciéndole perder                   puntos y reduciendo su tamaño.
+  * **proyectiles :** el jugador adquiere la habilidad de lanzar proyectiles a su alrededor en un radio de alcance determinado.
   * **Velocidad :** El jugador adquiere un incremento en su velocidad de movimiento.
 
 
 ## Historias de usuario
 * **Historias Colaborativas :**
-   +   
+   *Consumir jugador
+   *Conseguir Poderes
+   *Conseguir puntos
 * **Historias no Colaborativas :**
+   *Registro
+   *Login
+   *Agregar skin
+   *Unirse a partida
+   *Records
+
 
 _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
