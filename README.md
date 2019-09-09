@@ -88,7 +88,7 @@ _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 
-## Diagrama de Arquitctura General del proyecto
+## Diagrama de Arquitectura General del proyecto
 
 
 ![](img/arquitectura.png)
