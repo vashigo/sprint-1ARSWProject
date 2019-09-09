@@ -56,15 +56,15 @@ Al iniciar el juego el usuario aparece con un personaje de un tamaño predetermi
 
 ## Historias de usuario
 * **Historias Colaborativas :**
-   *Consumir jugador
-   *Conseguir Poderes
-   *Conseguir puntos
+   * Consumir jugador
+   * Conseguir Poderes
+   * Conseguir puntos
 * **Historias no Colaborativas :**
-   *Registro
-   *Login
-   *Agregar skin
-   *Unirse a partida
-   *Records
+   * Registro
+   * Login
+   * Agregar skin
+   * Unirse a partida
+   * Records
 
 
 _las historias de usuario estarán disponibles en el siguiente link:_
