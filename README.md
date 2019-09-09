@@ -91,7 +91,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 ## Diagrama de Arquitectura General del proyecto
 
 
-![](img/arquitectura.png)
+![](img/arquitecture.png)
 
 ## Software posiblemente a usar para la iniciacion del proyecto.
 
