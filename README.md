@@ -18,6 +18,13 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 ## ¿ Qué necesidad cubre nuestro producto ?
 cubre una necesidad de Entretenimiento en la industria de videojuegos que cada dia es mas demandada.
 
+## ¿ Cual es nuestra idea de negocio ?
+
+   + ### terminos academicos:
+       + Ofrecerla a nuestros compañeros el b0 como un medio de entretenimiento.
+   + ### terminos negocio:
+       + Utilizaremos el modelo de negocio "cebo y anzuelo" para generar ganancia a futuro ofreciendo desde el principio un juego optimo          y de calidad con pequeñas microtransacciones para "desbloquear" mejoras.
+
  
 ## Nicho de Mercado
 + **a usuarios niños y adolescentes que son apasionados por los videojuegos o simplemente buscan un momento de distracción donde puedan desarrollar inconscientemente habilidades como:**
