@@ -1,7 +1,23 @@
 
 ![](img/Untitled.png)
 
-# B0Tactics.io 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Integrantes 🔧
 
