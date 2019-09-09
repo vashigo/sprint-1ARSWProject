@@ -55,6 +55,10 @@ El juego constara de dos modalidades de juego por equipos y todos contra todos. 
 
 
 ## Historias de usuario
+* **Historias Colaborativas :**
+   +   
+* **Historias no Colaborativas :**
+
 _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
