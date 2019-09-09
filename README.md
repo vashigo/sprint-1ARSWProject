@@ -38,7 +38,7 @@ cubre una necesidad de Entretenimiento en la industria de videojuegos que cada d
 ## ¿ Cual es nuestra idea de negocio ?
 
    + ### terminos academicos:
-       + Ofrecerla a nuestros compañeros el b0 como un medio de entretenimiento.
+       + Ofrecerla a nuestros compañeros del b0 un medio de entretenimiento.
    + ### terminos de negocio:
        + Utilizaremos el modelo de negocio "cebo y anzuelo" para generar ganancia a futuro ofreciendo desde el principio un juego optimo          y de calidad con pequeñas microtransacciones para "desbloquear" mejoras.
 
