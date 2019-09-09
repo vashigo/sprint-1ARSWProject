@@ -22,7 +22,7 @@ cubre una necesidad de Entretenimiento en la industria de videojuegos que cada d
 
    + ### terminos academicos:
        + Ofrecerla a nuestros compañeros el b0 como un medio de entretenimiento.
-   + ### terminos negocio:
+   + ### terminos de negocio:
        + Utilizaremos el modelo de negocio "cebo y anzuelo" para generar ganancia a futuro ofreciendo desde el principio un juego optimo          y de calidad con pequeñas microtransacciones para "desbloquear" mejoras.
 
  
