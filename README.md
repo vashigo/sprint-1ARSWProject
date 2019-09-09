@@ -88,3 +88,28 @@ _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 
+## Diagrama de Arquitctura General del proyecto
+
+
+![](img/arquitectura.png)
+
+## Software posiblemente a usar para la iniciacion del proyecto.
+
+   + ### express:
+       + Express.js es un framework para Node.js que sirve para ayudarnos a crear aplicaciones web en menos tiempo ya que nos
+       proporciona funcionalidades como el  enrutamiento, opciones para gestionar sesiones y cookies, etc...
+       
+   + ### socket.io:
+       + es una librería que nos permite manejar eventos en tiempo real mediante una conexión TCP y todo ello en JavaScript. Es
+       realmente potente y podremos hacer que el real time en nuetra aplicacion sea realmente optimo.
+       
+   + ### webpack:
+       + es un empaquetador de modulos asimples palabras pero tiene caracteristicas que podrian brindarnos a este proyecto como:
+        + separando el código en módulos que luego se utilizan como dependencias en otros módulos. Una de las cosas que hace
+           realmente bien Webpack es la gestión de esos módulos y de sus dependencias, pero también puede usarse para cuestiones como
+           concatenación de código, minimización y ofuscación, verificación de buenas prácticas (linting), carga bajo demanda de
+           módulos, etc...
+        + Una de las muchas cosas interesantes de Webpack es que no solo el código JavaScript se considera un módulo. Las hojas de
+        estilo, las páginas HTML e incluso las imágenes se pueden utilizar también como tales, lo cual da un extra de potencia muy
+        interesante.
+
